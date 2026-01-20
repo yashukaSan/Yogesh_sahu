@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React JS, Tailwind CSS, MySQL, Postgres SQL, and PHP<br>👯 I’m looking to collaborate on Front-End Projects<br>I'm in 2nd Year of BCA Course from Bundelkhand University, Jhansi<br>🌱 I’m currently learning TypeScript, Node.js, Express.js
+🔭 I’m currently working on React JS, Tailwind CSS, MySQL, Postgres SQL, and PHP<br>👯I’m looking to collaborate on Front-End Projects<br>🏫I'm in 2nd Year of BCA Course from Bundelkhand University, Jhansi<br>🌱 I’m currently learning TypeScript, Node.js, Express.js
 
 
 ## 🌐 Socials:
